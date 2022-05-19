@@ -3,8 +3,8 @@ Part of ZTM Course on Mastering the Coding Interview
 **Resume Cheat Sheet**
 ---------------
 
--[] Use a pre-designed resume template    
--[] Make the resume fit on 1 page   
+-[x] Use a pre-designed resume template    
+-[x] Make the resume fit on 1 page   
 -[] Include words from job description  
 -[] Include company name you are applying to  
 -[] Does your first item on your resume reflect what they are looking for?  
